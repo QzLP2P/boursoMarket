@@ -9,7 +9,7 @@
     "codeSupport": "B12",
     "libelleSupport": "ASSUR IMMEUBLE",
     "codeISIN": "ASIM1",
-    "url": "https://www.boursorama.com/cours/MP-829131/"
+    "url": "not_found"
   },
   {
     "codeSupport": "B01",
@@ -69,7 +69,7 @@
     "codeSupport": "YS7",
     "libelleSupport": "SELECTIZ",
     "codeISIN": "FR0013196656",
-    "url": "https://www.boursorama.com/bourse/opcvm/cours/performances-risques/0P00019L7D/"
+    "url": "https://www.boursorama.com/bourse/opcvm/cours/0P00019L7D/"
   },
   {
     "codeSupport": "YS9",
@@ -417,7 +417,7 @@
     "codeSupport": "LH3",
     "libelleSupport": "EUROSE",
     "codeISIN": "FR0007051040",
-    "url": "https://www.boursorama.com/bourse/opcvm/cours/performances-risques/MP-804518/"
+    "url": "https://www.boursorama.com/bourse/opcvm/cours/MP-804518/"
   },
   {
     "codeSupport": "LJ7",
@@ -567,7 +567,7 @@
     "codeSupport": "PY1",
     "libelleSupport": "NAT AM FU SI SEEYOND GLOBAL",
     "codeISIN": "LU0935231216",
-    "url": "https://www.boursorama.com/bourse/opcvm/cours/performances-risques/0P00011J71/"
+    "url": "https://www.boursorama.com/bourse/opcvm/cours/0P00011J71/"
   },
   {
     "codeSupport": "PY3",
@@ -675,7 +675,7 @@
     "codeSupport": "1HB",
     "libelleSupport": "EPARGNE FONCIERE",
     "codeISIN": "RCS305302689",
-    "url": "https://www.boursorama.com/patrimoine/immobilier/scpi/cours/SCPI30530268900032/"
+    "url": "not_found"
   },
   {
     "codeSupport": "6MB",
@@ -837,7 +837,7 @@
     "codeSupport": "3HD",
     "libelleSupport": "VEGA TRANSFORMATION RESPONS",
     "codeISIN": "FR0013462744",
-    "url": "https://www.boursorama.com/bourse/opcvm/cours/historique/0P0001M0K8"
+    "url": "https://www.boursorama.com/bourse/opcvm/cours/0P0001M0K8"
   },
   {
     "codeSupport": "5WD",
@@ -1071,7 +1071,7 @@
     "codeSupport": "3YM",
     "libelleSupport": "DNCA INVEST EUR SMART CITIE",
     "codeISIN": "LU2344314120",
-    "url": "https://www.boursorama.com/cours/1uEMH.L/"
+    "url": "https://www.boursorama.com/bourse/opcvm/cours/0P0001O34H/"
   },
   {
     "codeSupport": "6LP",

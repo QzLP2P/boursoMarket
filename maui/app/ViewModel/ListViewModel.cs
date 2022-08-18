@@ -75,11 +75,9 @@ namespace app.ViewModel
 
                 using var stream = await FileSystem.OpenAppPackageFileAsync("data.json");
                 var result = await System.Text.Json.JsonSerializer.DeserializeAsync<List<Entities.Market>>(stream);
-                totalResult = result.Count;
-                result.Skip(SkipMarket).Take(10).ToList().ForEach((r) => markets.Add(r));
-                AllMarkets = result;
-                //result.ForEach((r) => markets.Add(r));
-
+                result.Where(m => m.URL != "not_found").Take(10).ToList().ForEach((r) => markets.Add(r));
+                AllMarkets = result.Where(m => m.URL != "not_found").ToList();
+                totalResult = AllMarkets.Count;
 
             }
             catch (Exception ex)
